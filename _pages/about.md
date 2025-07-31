@@ -19,7 +19,7 @@ When not working: Basketball, movies, hiking.
 - *2014.09 - 2018.06*, Bachelor of Physics, Chongqing Normal University(CNU), Chongqing, China.
 
 
-[Email](mailto:guiyangrachelwang@163.com) / [WeChat](../images/wechat.jpg)
+[Email](mailto:guiyangrachelwang@163.com) / [WeChat](../images/wechat.png)
 
 ## Projects
 
