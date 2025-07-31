@@ -22,7 +22,7 @@ repository               : "zhiting-wang/zhiting-wang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/avatar.png" # path to your avatar image, e.g. "images/avatar.png"
+  avatar           : "avatar.png" # path to your avatar image, e.g. "images/avatar.png"
   name             : "zhiting-wang"
   pronouns         : # example: "she/her"
   bio              : "AI Algorithm Engineer"
